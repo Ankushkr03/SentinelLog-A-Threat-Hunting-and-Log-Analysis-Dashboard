@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SentinelLog: AI-Powered Log Analysis Dashboard",
+  "description": "An intelligent threat-hunting dashboard that uses AI to analyze system and network logs, detect suspicious activities, and visualize security threats in real-time.",
+  "requestFramePermissions": []
+}
